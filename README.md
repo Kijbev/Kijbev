@@ -20,7 +20,7 @@ Our mods include the Kijbev help panel (To Pasture And Back with its next update
 
 | Mod | What it is |
 |---|---|
-| To Pasture And Back, RL Edition | To Pasture And Back for Realistic Livestock RM. It inherits the GPL from Realistic Livestock RM, so it will be published here, with its source. |
+| To Pasture And Back, RL Edition | To Pasture And Back for [Realistic Livestock RM](https://github.com/rittermod/FS25_RealisticLivestockRM), maintained by rittermod. It inherits the GPL from Realistic Livestock RM, so it will be published here, with its source. |
 | Torque & Terrain | A physics overhaul: soft soil gives under a machine's weight, heavy machines compact the soil, and horsepower matters. |
 | AgriWeather | Torque & Terrain's weather panel and soil moisture model as a separate mod, without the driving changes. |
 
