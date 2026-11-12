@@ -14,7 +14,7 @@ Our mods are published on the official GIANTS ModHub and are free to download an
 | [Mouse Click Actions](https://www.farming-simulator.com/mod.php?mod_id=366477&title=fs2025) | Lets you click doors, lights, the ignition and folding parts on vehicles with Interactive Control clickpoints. Hold R to freeze the view and free the cursor. |
 | [To Pasture And Back](https://www.farming-simulator.com/mod.php?mod_id=364007&title=fs2025) | Takes a herd from a barn and drops it off on a field or pasture that suits the species, where it wanders until you call it home. |
 
-Our mods include the Kijbev help panel (To Pasture And Back with its next update): Right Ctrl + F12 opens and closes a list of the key combinations of every active Kijbev mod.
+Our mods include the Kijbev help panel: Right Ctrl + F12 opens and closes a list of the key combinations of every active Kijbev mod.
 
 ## In development
 
