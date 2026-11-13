@@ -16,11 +16,16 @@ Our mods are published on the official GIANTS ModHub and are free to download an
 
 Our mods include the Kijbev help panel: Right Ctrl + F12 opens and closes a list of the key combinations of every active Kijbev mod.
 
+## On GitHub
+
+| Mod | What it does |
+|---|---|
+| [To Pasture And Back, RL Edition](https://github.com/Kijbev/FS25_ToPastureAndBack_RL) | To Pasture And Back for [Realistic Livestock RM](https://github.com/rittermod/FS25_RealisticLivestockRM), maintained by rittermod: on the pasture every animal keeps its breed, age, sex and ear tags. It inherits the GPL from Realistic Livestock RM, so it is published here, with its source. |
+
 ## In development
 
 | Mod | What it is |
 |---|---|
-| To Pasture And Back, RL Edition | To Pasture And Back for [Realistic Livestock RM](https://github.com/rittermod/FS25_RealisticLivestockRM), maintained by rittermod. It inherits the GPL from Realistic Livestock RM, so it will be published here, with its source. |
 | Torque & Terrain | A physics overhaul: soft soil gives under a machine's weight, heavy machines compact the soil, and horsepower matters. |
 | AgriWeather | Torque & Terrain's weather panel and soil moisture model as a separate mod, without the driving changes. |
 
